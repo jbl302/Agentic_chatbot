@@ -1,0 +1,10 @@
+python-dotenv
+langchain_groq
+langchain_community
+langchain-deepseek
+langgraph
+google-search-results
+pydantic
+fastapi
+uvicorn
+streamlit
