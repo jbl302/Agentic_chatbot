@@ -1,5 +1,4 @@
 from pydantic import BaseModel
-from typing import List, Dict
 from fastapi import FastAPI
 from agent import getting_respose_from_agent
 import uvicorn
